@@ -9,7 +9,7 @@
     </tr>
     <tr>
       <td>M008B4KY0388</td>
-      <td>Alif Rizqullah Ma'Ruf </td>
+      <td>Alif Rizqullah Ma'ruf </td>
       <td>Machine Learning</td>
       <td>
         <a href=""><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
