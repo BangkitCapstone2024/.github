@@ -105,6 +105,7 @@ In developing this solution, we are committed to employing **design thinking met
 </div>
 
 <br>
+
 ## App Showcase
 
 ![image](../assets/app-preview/Culture-Connect-Thumbnail.png) 
