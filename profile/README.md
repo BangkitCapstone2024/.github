@@ -225,8 +225,11 @@ In developing this solution, we are committed to employing **design thinking met
 ![image](../assets/app-preview/Culture-Connect-Thumbnail2.png) 
 ![image](../assets/app-preview/Culture-Connect-Thumbnail3.png) 
 
-## Youtube Link
+## Youtube Link ( Presentation ) 
 https://www.youtube.com/watch?v=ondDsyJ_jOw
 
 ## APK Demo
 https://bit.ly/cultureconnectapp
+
+## Youtube Link ( App Showcase ) 
+https://youtu.be/KQqFC3UHRDc?si=ShxK4XmHPYb1EAN5
