@@ -1,4 +1,35 @@
 <div align="center">
+  <img src="../assets/logo/Culture-Connect-Logo.png" alt="Culture Connect Logo" width="200">
+  <p style="font-weight: bold;">Culture Connect</p>
+  <i style="font-weight: 300;">Personalized place recommendations tailored to your mood, designed to brighten your day</i>
+</div>
+
+
+
+<br><br>
+
+## About the Application
+
+This application is designed to bridge that gap, assisting users in finding ideal spots based on their current feelings and desired environments. By integrating mood-based suggestions, the app personalizes recommendations to align with users' emotional states, simplifying their search for the perfect destination. In this way, the app offers a curated, stress-free approach to "healing" that meets the growing demand for intentional, mood-aligned experiences.
+
+### Insights & Market Research
+
+- **72% of Gen Z travelers** prefer experiences that resonate with their personal values and emotions.
+- **66% of Gen Z travelers** seek unique and personalized travel experiences.
+
+In Indonesia, where diverse cultural and natural attractions offer endless opportunities for exploration, catering to these preferences is essential for enhancing tourism. By leveraging these insights, our application aims to cater to the unique preferences of Gen Z travelers, providing them with tailored recommendations that enhance their overall travel experience.
+
+
+## Motivation
+
+Our team is driven by the desire to transform travel into a more intimate and satisfying journey. By focusing on the emotional aspect of travel, we believe we can offer a solution that not only addresses a common pain point but also enhances the way people explore new destinations.
+
+In developing this solution, we are committed to employing **design thinking methodologies** to ensure that our approach is user-centric and effectively meets the needs of travelers seeking personalized experiences.
+
+
+
+
+<div align="center">
   <h3>Our Team</h3>
   <table align="center">
     <tr>
@@ -72,3 +103,8 @@
     </tr>
   </table>
 </div>
+
+<br>
+## App Showcase
+
+![image](../assets/app-preview/Culture-Connect-Thumbnail.png) 
