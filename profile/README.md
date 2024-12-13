@@ -163,3 +163,5 @@ In developing this solution, we are committed to employing **design thinking met
 ## App Showcase
 
 ![image](../assets/app-preview/Culture-Connect-Thumbnail.png) 
+![image](../assets/app-preview/Culture-Connect-Thumbnail2.png) 
+![image](../assets/app-preview/Culture-Connect-Thumbnail3.png) 
