@@ -26,6 +26,60 @@ Our team is driven by the desire to transform travel into a more intimate and sa
 
 In developing this solution, we are committed to employing **design thinking methodologies** to ensure that our approach is user-centric and effectively meets the needs of travelers seeking personalized experiences.
 
+<div align="center">
+  <h3 style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">Competitor Analysis</h3>
+  <h4 style="font-size: 20px; font-weight: bold; margin-bottom: 20px;">Features</h4>
+
+  <table border="1" style="border-collapse: collapse; width: 80%; text-align: center;">
+    <thead style="background-color: #f4f4f4;">
+      <tr>
+        <th style="padding: 10px; font-weight: bold;">Features</th>
+        <th style="padding: 10px; font-weight: bold;">Tripadvisor</th>
+        <th style="padding: 10px; font-weight: bold;">Google Maps</th>
+        <th style="padding: 10px; font-weight: bold;">Klook</th>
+        <th style="padding: 10px; font-weight: bold;">Culture Connect</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px;">Mood-based recommendation</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px; background-color: #d4edda;">✅</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 10px;">Personalized recommendations</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px; background-color: #d4edda;">✅</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Mood tracking feature</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px; background-color: #d4edda;">✅</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 10px;">Exclusive discounts and promotions</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px; background-color: #d4edda;">✅</td>
+        <td style="padding: 10px; background-color: #d4edda;">✅</td>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">Collaborations with local businesses</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px;">❌</td>
+        <td style="padding: 10px; background-color: #d4edda;">✅</td>
+        <td style="padding: 10px; background-color: #d4edda;">✅</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 
 
