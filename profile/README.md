@@ -224,3 +224,6 @@ In developing this solution, we are committed to employing **design thinking met
 ![image](../assets/app-preview/Culture-Connect-Thumbnail.png) 
 ![image](../assets/app-preview/Culture-Connect-Thumbnail2.png) 
 ![image](../assets/app-preview/Culture-Connect-Thumbnail3.png) 
+
+## Youtube Link
+https://www.youtube.com/watch?v=ondDsyJ_jOw
