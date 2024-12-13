@@ -97,8 +97,8 @@ In developing this solution, we are committed to employing **design thinking met
       <td>Alif Rizqullah Ma'ruf </td>
       <td>Machine Learning</td>
       <td>
-        <a href=""><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/alifrizqullahmaruf"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/alirizm/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -106,8 +106,8 @@ In developing this solution, we are committed to employing **design thinking met
       <td>Daniel Ridho Abadi </td>
       <td>Machine Learning</td>
       <td>
-        <a href=""><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/DanielRidho"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/daniel-ridho-abadi-b99627293/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -115,8 +115,8 @@ In developing this solution, we are committed to employing **design thinking met
       <td>Muhammad Fikri Abdullah </td>
       <td>Machine Learning </td>
       <td>
-        <a href=""><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/fikriiaabdullah"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/fikriiaabdullah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -124,8 +124,8 @@ In developing this solution, we are committed to employing **design thinking met
       <td>Emmanuel Krishnandito Laksana </td>
       <td>Mobile Development</td>
       <td>
-        <a href=""><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/KrishnanditoLksn"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/emmanuel-krishnandito-laksana-3981b2251/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -133,8 +133,8 @@ In developing this solution, we are committed to employing **design thinking met
       <td>Muhammad Harits Detya Irawan </td>
       <td>Mobile Development</td>
       <td>
-        <a href=""><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/KrishnanditoLksn"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/muhammad-harits-d-i/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -142,8 +142,8 @@ In developing this solution, we are committed to employing **design thinking met
       <td>Rivan Anjung Sinar Permana </td>
       <td>Cloud Computing</td>
       <td>
-        <a href=""><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/Rivan-Permana"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/rivan-permana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
        <tr>
@@ -151,8 +151,8 @@ In developing this solution, we are committed to employing **design thinking met
       <td>Vincensius Damar Adyatma</td>
       <td>Cloud Computing</td>
       <td>
-        <a href=""><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://github.com/vincensiusadyatma"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/vincensiusdamara/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
   </table>
