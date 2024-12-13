@@ -227,3 +227,6 @@ In developing this solution, we are committed to employing **design thinking met
 
 ## Youtube Link
 https://www.youtube.com/watch?v=ondDsyJ_jOw
+
+## APK Demo
+https://bit.ly/cultureconnectapp
