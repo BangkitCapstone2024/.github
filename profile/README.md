@@ -1,6 +1,6 @@
 <div align="center">
   <img src="../assets/logo/Culture-Connect-Logo.png" alt="Culture Connect Logo" width="150">
-  <p style="font-weight: bold;">CultureConnect</p>
+  <p style="font-weight: bold;">Culture Connect</p>
   <i style="font-weight: 300;">Personalized place recommendations tailored to your mood, designed to brighten your day!</i>
 </div>
 
